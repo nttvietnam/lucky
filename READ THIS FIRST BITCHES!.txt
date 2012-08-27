@@ -1,0 +1,35 @@
+_________ .__                   __    
+\_   ___ \|  |__  __ __   ____ |  | __
+/    \  \/|  |  \|  |  \_/ ___\|  |/ /
+\     \___|   Y  \  |  /\  \___|    < 
+ \______  /___|  /____/  \___  >__|_ \
+        \/     \/            \/     \/
+   _____                       
+  /  _  \ ______ ______  ______
+ /  /_\  \\____ \\____ \/  ___/
+/    |    \  |_> >  |_> >___ \ 
+\____|__  /   __/|   __/____  >
+        \/|__|   |__|       \/ 
+
+
+Create a App on Facebook Developers and also a page to run the app
+
+Set up the Urls in that app to point to where you're hosting the script.
+https is deffo recommended but you will still get likes without it, just 
+users browsing in https mode won't see your app.
+
+add a link to Terms and Privacy files in advanced settings. change the text in the files as you wish.
+
+https://www.facebook.com/dialog/pagetab?app_id=YOUR_APP_ID&next=YOUR_URL
+YOU_URL = the domain you set in the application. select your page and click add.
+
+open index.php, set your app id, secret key, fanpage tab url, and main.php url.
+
+open main.php, set app id, secret key.
+
+The image is pretty easy to configure if you know about php GD.
+if you need help on customizing the image, contact me on aim, skype, cpalead.
+my contact details are in the ad.
+
+
+writing up a detailed instructions with images (for the kids)
